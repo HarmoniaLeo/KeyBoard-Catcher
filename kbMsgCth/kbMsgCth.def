@@ -1,0 +1,5 @@
+EXPORTS
+	SetKeyHook @1
+	RemoveKeyHook @2
+SECTIONS
+	YCIShared Read Write Shared
